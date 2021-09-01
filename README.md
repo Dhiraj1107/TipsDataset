@@ -7,4 +7,4 @@ It's an interactive notebook ,telling the story of tips giving culture.
 
 Dataset is inbuilt dataset for seaborn library
 
-Reference:https://www.youtube.com/watch?v=fJ82678KNCk&list=PL6_D9USWkG1A--X2ZnyBjJe5nNEJYDYvk&index=2
+Credits and Reference:https://www.youtube.com/watch?v=fJ82678KNCk&list=PL6_D9USWkG1A--X2ZnyBjJe5nNEJYDYvk&index=2
